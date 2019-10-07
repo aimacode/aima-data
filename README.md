@@ -48,4 +48,5 @@ We'll list the source files for each of the three:
         sense.txt           Sense and Sensibility
         zola.txt            Works of Emile Zola
         sgb-words.txt       The list of 5757 five-letter English words
+        federalist.txt      The Federalist papers, written by Hamilton, Jay and Madison
 ```
