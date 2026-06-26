@@ -2,13 +2,14 @@
 Data files to accompany the algorithms from Norvig And Russell's *Artificial Intelligence - A Modern Approach*.
 The idea is that the same data files can be used with any of the implementations: `aima-java`, `aima-python`, `aima-lisp`, or eventually `aima-javascript`.
 
-The data is divided into three types:
+The data is divided into four types:
 
 1. Range data for Robot Localization
 2. Machine Learning data sets
 3. English text
+4. Logic problems
 
-We'll list the source files for each of the three:
+We'll list the source files for each of the four:
 
 ## Range data for Robot Localization
 ```text
@@ -49,4 +50,10 @@ We'll list the source files for each of the three:
         zola.txt            Works of Emile Zola
         sgb-words.txt       The list of 5757 five-letter English words
         federalist.txt      The Federalist papers, written by Hamilton, Jay and Madison
+```
+
+## Logic problems
+```text
+    zebra.cnf           The Zebra (Einstein) puzzle encoded in CNF (DIMACS-style header
+                        with symbolic clauses), for SAT-based solving
 ```
